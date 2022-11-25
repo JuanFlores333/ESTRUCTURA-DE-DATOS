@@ -287,7 +287,7 @@ namespace Estructura_de_datos
                     }
                     if (cont > 0)
                     {
-                        Console.WriteLine("\nEl numero " + num + " se repite " + cont + " veces");
+                        Console.WriteLine("\nEl numero " + num + " si se encuentra en la lista y se repite " + cont + " veces");
                     }
                     else
                     {
