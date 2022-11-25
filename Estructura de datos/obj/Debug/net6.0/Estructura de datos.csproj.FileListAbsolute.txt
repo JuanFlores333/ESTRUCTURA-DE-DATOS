@@ -1,0 +1,15 @@
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.csproj.AssemblyReference.cache
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.AssemblyInfo.cs
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Downloads\Estructura de datos\bin\Debug\net6.0\Estructura de datos.exe
+C:\Users\Jarvis\Downloads\Estructura de datos\bin\Debug\net6.0\Estructura de datos.deps.json
+C:\Users\Jarvis\Downloads\Estructura de datos\bin\Debug\net6.0\Estructura de datos.runtimeconfig.json
+C:\Users\Jarvis\Downloads\Estructura de datos\bin\Debug\net6.0\Estructura de datos.dll
+C:\Users\Jarvis\Downloads\Estructura de datos\bin\Debug\net6.0\Estructura de datos.pdb
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.dll
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\refint\Estructura de datos.dll
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.pdb
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\Estructura de datos.genruntimeconfig.cache
+C:\Users\Jarvis\Downloads\Estructura de datos\obj\Debug\net6.0\ref\Estructura de datos.dll
