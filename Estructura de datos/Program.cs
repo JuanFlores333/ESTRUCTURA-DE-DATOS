@@ -89,7 +89,7 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
             static void Ordenado()
@@ -128,7 +128,7 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
             static void OrdenadoEstricto()
@@ -167,7 +167,7 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
             static void Repetidos()
@@ -219,7 +219,7 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
             static void Ordenar()
@@ -255,7 +255,7 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
             static void Buscar()
@@ -296,14 +296,14 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
             static void Promedio()
             {
                try
                 {
-                    Console.WriteLine("Ingrese el tamaño de la lista");
+                    Console.WriteLine("Ingrese el tamaño del vector");
                     int tam = Convert.ToInt32(Console.ReadLine());
                     int[] vector = new int[tam];
                     for (int i = 0; i < tam; i++)
@@ -326,7 +326,7 @@ namespace Estructura_de_datos
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Opcion no valida");
+                    Console.WriteLine("Valor no valido");
                 }
             }
         }
